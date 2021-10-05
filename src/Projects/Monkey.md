@@ -1,5 +1,6 @@
 # Extracting Information from Electrode and Neural Spike Recordings from Macaque Monkeys
 ## With Kevin Lin and Alexa Aucoin, Summer 2021
+<hr>
 How do we determine the type of stimulus administered to a monkey given only access to their neural recordings? How do we extract the patterns associated with each stimulus type? How do we choose the most important electrodes and neurons in producing these patterns? All of these were questions we asked and attempted to answer in this summer project. 
 
 In the dataset we worked with, the monkeys were given several types of stimulus while deep brain electrodes were recording from two seperate brain regions (denoted by A and B due to the data being not yet published). While brain region A responded very strongly to the different types of stimulus, the other did not appear to. What we attempted to do was connect the activity of the two brain regions, and extract a potentially complex signal from region B. We obtained a preliminary finding that the two brain regions may be encoding nearly independant information. However, we werent able to entirely flesh it out by the time we wrapped up the project. 

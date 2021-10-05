@@ -11,7 +11,7 @@
 	function newSize(){
 		windowSize = window.innerWidth
 		if (windowSize >600){
-			dropdownOn = true
+			dropdownOn = false
 		}
 	}
 	let dropdownOn = false
@@ -28,7 +28,7 @@
 	left: calc(50vw - 310px)
     }
     .blog-container {
-		left: 12vw; 
+		left: 10vw; 
 		position:relative; 
 		width:70vw; 
 		margin:20px;

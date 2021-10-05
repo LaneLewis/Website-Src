@@ -28,7 +28,7 @@
 	left: calc(50vw - 310px)
     }
     .blog-container {
-		left: 10vw; 
+		left: 12vw; 
 		position:relative; 
 		width:70vw; 
 		margin:20px;

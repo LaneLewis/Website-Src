@@ -20,7 +20,7 @@
         border-left: solid #292b2c .5vw;
         border-right: solid #292b2c .5vw;
         width:70vw;
-        left:15vw;
+        left:13.5vw;
         position:relative;
         border-radius:5vw;
     }
